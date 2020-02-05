@@ -1,4 +1,4 @@
-# ML-for-Beginners-Practise
+# Machine Learning Application in Python
 How to Implement what you've learned
 
 
